@@ -1,12 +1,12 @@
 # AluraFlix - Desafío React
 
-¡Bienvenidas y bienvenidos al desafío **AluraFlix**! Este proyecto consiste en construir una aplicación usando **React con JavaScript**, donde podrás registrar, eliminar, actualizar y listar videos de manera dinámica.
+¡Bienvenidas y bienvenidos al desafío **AluraFlix**! Este proyecto consiste en construir una aplicación usando **React con JavaScript**, donde puedes registrar, eliminar, actualizar y listar videos de manera dinámica.
 
 ---
 
 ## 📖 Descripción del Proyecto
 
-La aplicación tiene como objetivo crear un catálogo de videos organizados por categorías. El diseño está basado en un modelo propuesto en **Figma**, pero tienes la libertad de personalizarlo y agregar funcionalidades adicionales según tus preferencias.
+La aplicación tiene como objetivo crear un catálogo de videos organizados por categorías. 
 
 ### 🌟 Funcionalidades principales:
 
@@ -56,11 +56,6 @@ La aplicación tiene como objetivo crear un catálogo de videos organizados por 
 
 ---
 
-## 🧑‍🎨 Diseño y Personalización
-
-El diseño del proyecto está basado en un modelo de Figma. Puedes adaptarlo o modificarlo para agregar tu toque personal. Además, la aplicación cuenta con un cuadro de gestión para organizar las tareas de desarrollo.
-
----
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
@@ -91,21 +86,13 @@ El diseño del proyecto está basado en un modelo de Figma. Puedes adaptarlo o m
 
 ## 🎯 Objetivo del Desafío
 
-Este proyecto está diseñado para ayudarte a:
-- Consolidar tus conocimientos en **React**.
-- Mejorar tus habilidades de desarrollo frontend.
-- Prepararte para situaciones reales de trabajo en equipo.
+Este proyecto está diseñado para ayudarme a:
+- Consolidar mis conocimientos en **React**.
+- Mejorar mis habilidades de desarrollo frontend.
+- Prepararme para situaciones reales de trabajo en equipo.
 
 ---
 
-## 🌍 Compartir y Crecer
-
-Una vez que completes el desafío:
-- Compártelo en tus redes profesionales como **LinkedIn**.
-- Etiqueta a Alura para recibir retroalimentación.
-- Aumenta tu visibilidad frente a reclutadores potenciales.
-
----
 
 ## 💻 Tecnologías Utilizadas
 
@@ -138,4 +125,4 @@ Una vez que completes el desafío:
 
 ---
 
-¡Éxito en tu desarrollo con **AluraFlix**! 🎥✨
+¡**AluraFlix**! 🎥✨
